@@ -1,0 +1,37 @@
+-- Create a database called 'Bamazon' and switch into it for this activity --
+-- CREATE DATABASE Bamazonian;
+--USE Bamazonian;
+
+-- Create a table called 'products' which will contain the store inventory --
+--CREATE TABLE products (
+--	item_id INTEGER(11) AUTO_INCREMENT NOT NULL,
+--	product_name VARCHAR(30) NOT NULL,
+--	department_name VARCHAR(20) NOT NULL,
+--	price DECIMAL(10,2) NOT NULL,
+--	stock_quantity INTEGER(11) NOT NULL,
+--	PRIMARY KEY (item_id)
+--);
+--
+-- Insert data into the 'products' table --
+--INSERT INTO products (product_name, department_name, price, stock_quantity)
+--VALUES  ('Cologne', 'Cosmetics', 20.75, 500),
+--		('Diapers', 'Cosmetics', 6.25, 627),
+--		('Frozen Fruit', 'Grocery', 4.99, 400),
+  --      ('Bamazonian Apples', 'Grocery', 12.99, 700),
+--		('Opened Cheezits', 'Grocery', 4.25, 400),
+--		('Peeled Bananas', 'Produce', 0.35, 800),
+--		('Skinless Apples', 'Produce', 0.20, 10000),
+--		('Used Doritos', 'Grocery', 4.45, 267),
+ --       ('Unfrozen Ice Cream', 'Grocery', 3.25, 432),
+--		('Unfiltered Grape Juice', 'Grocery', 4.50, 200),
+--		('1x1 Backpack', 'Children', 2.75, 476),
+--		('Extremely Angry Rubber Duckies', 'Children', 1.50, 423),
+	--	('700,000lbs Dumbell', 'Sports', 12.75, 150),
+--		('Pull Up Bars (made out of legos)', 'Sports', 7.99, 89),
+--		('Stained Black T-Shirt', 'Clothing', 5.55, 120),
+--		('Clear Tank Top', 'Clothing', 17.88, 250),
+--		('Kangaroo Food', 'Pet', 7.25, 157),
+--		('Yoda food', 'Pet', 12.50, 163),
+--		('Homemade Vitamins', 'Pharmacy', 4.95, 389),
+	--	('Torn Up Shirt(gauze)', 'Pharmacy', 3.25, 550); --
+		--
