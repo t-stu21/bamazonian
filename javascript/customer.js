@@ -127,10 +127,8 @@ function custPurch () {
         })
     }
     
-    // runBamazon will execute the main application logic
-    function init() {
-        // console.log('___ENTER runBamazon___');
     
+    function init() {
         // Display the available inventory
         disInv();
     }
