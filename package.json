@@ -1,0 +1,19 @@
+{
+  "name": "bamazonian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-stu21/bamazonian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-stu21/bamazonian/issues"
+  },
+  "homepage": "https://github.com/t-stu21/bamazonian#readme"
+}
